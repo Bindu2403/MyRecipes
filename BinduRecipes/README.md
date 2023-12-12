@@ -4,10 +4,14 @@ run th eroject npm run
  you will a the browser running on local host:3000
 
 
-Technologies used in the project 
-React: A JavaScript library for building user interfaces, particularly for single-page applications.
-TypeScript: An open-source language that builds on JavaScript by adding static type definitions.
-Axios: A promise-based HTTP client for making HTTP requests to fetch or save data.
-Material-UI: A popular React UI framework that provides a set of components for faster and easier web development.
-TheMealDB API: An open, crowd-sourced database of Recipes from around the world which the app uses to fetch food recipes.
+technologies and tools are used:
 
+React: A JavaScript library for building user interfaces, used for the overall structure of the app.
+
+Redux: A state management library for JavaScript apps, used for managing the app's state more predictably.
+
+Axios: A promise-based HTTP client for JavaScript, used for making API calls to fetch data.
+
+Sass (SCSS): A CSS pre-processor, used to write more maintainable and extendable CSS.
+
+Git: A version control system, used for tracking changes in the source code during development.
