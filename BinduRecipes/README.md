@@ -14,4 +14,4 @@ Axios: A promise-based HTTP client for JavaScript, used for making API calls to 
 
 Sass (SCSS): A CSS pre-processor, used to write more maintainable and extendable CSS.
 
-Git: A version control system, used for tracking changes in the source code during development.
+
